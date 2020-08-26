@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReframeApp", "ReframeApp.csproj", "{015926E2-10A2-4037-8F2B-4599B21BEE4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReframeEntities", "..\ReframeEntities\ReframeEntities.csproj", "{B72A9416-55DF-46DD-961F-D59C03F0CB25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{015926E2-10A2-4037-8F2B-4599B21BEE4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{015926E2-10A2-4037-8F2B-4599B21BEE4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{015926E2-10A2-4037-8F2B-4599B21BEE4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{015926E2-10A2-4037-8F2B-4599B21BEE4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B72A9416-55DF-46DD-961F-D59C03F0CB25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B72A9416-55DF-46DD-961F-D59C03F0CB25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B72A9416-55DF-46DD-961F-D59C03F0CB25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B72A9416-55DF-46DD-961F-D59C03F0CB25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C19BCCE7-A8FA-4E7A-B356-88267408B967}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Users\vroland\Reframe\ReframeEntities\bin\Debug\netcoreapp3.1\ReframeEntities.deps.json
+C:\Users\vroland\Reframe\ReframeEntities\bin\Debug\netcoreapp3.1\ReframeEntities.dll
+C:\Users\vroland\Reframe\ReframeEntities\obj\Debug\netcoreapp3.1\ReframeEntities.csprojAssemblyReference.cache
+C:\Users\vroland\Reframe\ReframeEntities\obj\Debug\netcoreapp3.1\ReframeEntities.AssemblyInfoInputs.cache
+C:\Users\vroland\Reframe\ReframeEntities\obj\Debug\netcoreapp3.1\ReframeEntities.AssemblyInfo.cs
+C:\Users\vroland\Reframe\ReframeEntities\bin\Debug\netcoreapp3.1\ReframeEntities.runtimeconfig.json
+C:\Users\vroland\Reframe\ReframeEntities\bin\Debug\netcoreapp3.1\ReframeEntities.runtimeconfig.dev.json
+C:\Users\vroland\Reframe\ReframeEntities\obj\Debug\netcoreapp3.1\ReframeEntities.genruntimeconfig.cache
