@@ -1,0 +1,4 @@
+C:\Users\vroland\Reframe\ReframeBackend\ReframeData\bin\Debug\netcoreapp3.1\ReframeModel.dll
+C:\Users\vroland\Reframe\ReframeBackend\ReframeData\obj\Debug\netcoreapp3.1\ReframeData.csprojAssemblyReference.cache
+C:\Users\vroland\Reframe\ReframeBackend\ReframeData\obj\Debug\netcoreapp3.1\ReframeData.AssemblyInfoInputs.cache
+C:\Users\vroland\Reframe\ReframeBackend\ReframeData\obj\Debug\netcoreapp3.1\ReframeData.AssemblyInfo.cs

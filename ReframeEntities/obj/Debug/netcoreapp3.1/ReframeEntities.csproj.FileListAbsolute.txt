@@ -6,3 +6,7 @@ C:\Users\vroland\Reframe\ReframeEntities\obj\Debug\netcoreapp3.1\ReframeEntities
 C:\Users\vroland\Reframe\ReframeEntities\bin\Debug\netcoreapp3.1\ReframeEntities.runtimeconfig.json
 C:\Users\vroland\Reframe\ReframeEntities\bin\Debug\netcoreapp3.1\ReframeEntities.runtimeconfig.dev.json
 C:\Users\vroland\Reframe\ReframeEntities\obj\Debug\netcoreapp3.1\ReframeEntities.genruntimeconfig.cache
+C:\Users\vroland\Reframe\ReframeEntities\bin\Debug\netcoreapp3.1\ReframeEntities.pdb
+C:\Users\vroland\Reframe\ReframeEntities\obj\Debug\netcoreapp3.1\ReframeEntities.csproj.CoreCompileInputs.cache
+C:\Users\vroland\Reframe\ReframeEntities\obj\Debug\netcoreapp3.1\ReframeEntities.dll
+C:\Users\vroland\Reframe\ReframeEntities\obj\Debug\netcoreapp3.1\ReframeEntities.pdb

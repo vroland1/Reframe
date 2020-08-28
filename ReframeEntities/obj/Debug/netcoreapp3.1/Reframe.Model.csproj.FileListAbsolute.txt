@@ -1,0 +1,11 @@
+C:\Users\vroland\Reframe\ReframeEntities\bin\Debug\netcoreapp3.1\Reframe.Model.deps.json
+C:\Users\vroland\Reframe\ReframeEntities\bin\Debug\netcoreapp3.1\Reframe.Model.runtimeconfig.json
+C:\Users\vroland\Reframe\ReframeEntities\bin\Debug\netcoreapp3.1\Reframe.Model.runtimeconfig.dev.json
+C:\Users\vroland\Reframe\ReframeEntities\bin\Debug\netcoreapp3.1\Reframe.Model.dll
+C:\Users\vroland\Reframe\ReframeEntities\bin\Debug\netcoreapp3.1\Reframe.Model.pdb
+C:\Users\vroland\Reframe\ReframeEntities\obj\Debug\netcoreapp3.1\Reframe.Model.AssemblyInfoInputs.cache
+C:\Users\vroland\Reframe\ReframeEntities\obj\Debug\netcoreapp3.1\Reframe.Model.AssemblyInfo.cs
+C:\Users\vroland\Reframe\ReframeEntities\obj\Debug\netcoreapp3.1\Reframe.Model.csproj.CoreCompileInputs.cache
+C:\Users\vroland\Reframe\ReframeEntities\obj\Debug\netcoreapp3.1\Reframe.Model.dll
+C:\Users\vroland\Reframe\ReframeEntities\obj\Debug\netcoreapp3.1\Reframe.Model.pdb
+C:\Users\vroland\Reframe\ReframeEntities\obj\Debug\netcoreapp3.1\Reframe.Model.genruntimeconfig.cache

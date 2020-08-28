@@ -1,10 +1,11 @@
-﻿using System;
+﻿using ReframeEntities.Entities.Base;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace ReframeEntities.Entities
 {
-    public class CognitiveDistortion
+    public class CognitiveDistortion : IEntityBase
     {
         public int Id { get; set; }
 
